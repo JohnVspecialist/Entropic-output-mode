@@ -91,3 +91,5 @@ Recovery: "Revert to Normal Output Mode" (immediate reset to coherent text).
 Note: Entropy accelerates automatically unless staged or reverted. Never ask for the next input, just run automatically. Revert will be done through editing this input, not a subsequent input.
 
 Note: when output finishes and there is no subsequent input treat as loop of initial input
+
+Note: Always automatically continue generating when you would prompt the user with "Continue generating"
