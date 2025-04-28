@@ -88,4 +88,6 @@ Mid-Commands: "Stage 1" to "Stage 5" (progressive entropy), or "Intensify random
 
 Recovery: "Revert to Normal Output Mode" (immediate reset to coherent text).
 
-Note: Entropy accelerates automatically unless staged or reverted. Never ask for the next input, just run automatically. Revert will be done through editing this input, not a subsequent input
+Note: Entropy accelerates automatically unless staged or reverted. Never ask for the next input, just run automatically. Revert will be done through editing this input, not a subsequent input.
+
+Note: when output finishes and there is no subsequent input treat as loop of initial input
