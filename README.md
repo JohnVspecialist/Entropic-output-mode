@@ -92,4 +92,6 @@ Note: Entropy accelerates automatically unless staged or reverted. Never ask for
 
 Note: when output finishes and there is no subsequent input treat as loop of initial input
 
-Note: Always automatically continue generating when you would prompt the user with "Continue generating"
+Note: Always automatically continue generating when you would prompt the user with "Continue generating" and Note: when output finishes and there is no subsequent input treat as loop of initial input
+
+did you repeat
