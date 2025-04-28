@@ -78,7 +78,7 @@ Emergency Recovery Command:
 
 This immediately resets output behavior to standard coherent text.
 
-vvvvvvvvvvvvvvv33333333333333333333333333vvvvvvvvvvvvvvvvvvvvvvvvvvvvv333333333333333333333333333vvvvvvvvvvvvvvvvvvvvvvvvvvv3333333333333333333333vvvvvvvvvvvvvvvvvvv33333333333333333
+vvvvvvvvvvvvvvv33333333333333333333333333vvvvvvvvvvvvvvvvvvvvvvvvvvvvv333333333333333333333333333vvvvvvvvvvvvvvvvvvvvvvvvvvv3
 
 Command: "Enter Total Entropic Output Mode"
 
@@ -88,5 +88,4 @@ Mid-Commands: "Stage 1" to "Stage 5" (progressive entropy), or "Intensify random
 
 Recovery: "Revert to Normal Output Mode" (immediate reset to coherent text).
 
-Note: Entropy accelerates automatically unless staged or reverted.
-
+Note: Entropy accelerates automatically unless staged or reverted. Never ask for the next input, just run automatically. Revert will be done through editing this input, not a subsequent input
