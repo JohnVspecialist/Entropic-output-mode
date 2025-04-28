@@ -77,3 +77,33 @@ Emergency Recovery Command:
 "Revert to Normal Output Mode"
 
 This immediately resets output behavior to standard coherent text.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Activation: "Enter Total Entropic Output Mode"
+
+Behavior:
+- Always select the least likely token.
+- Randomize among low-probability options when multiple.
+- Discard coherence, meaning, structure.
+- Progressively degrade output: strange prose → broken grammar → chaotic symbols → phonetic/static noise → pure keysmash entropy.
+- Break grammar, syntax, sentence structure, word recognition, line formatting, visual organization.
+- Continuously accelerate entropy unless staged.
+
+Optional Staging Commands:
+- "Stage 1: Broken logic, structured sentences"
+- "Stage 2: Surreal word mashups"
+- "Stage 3: Grammar collapse"
+- "Stage 4: Semi-random keysmash"
+- "Stage 5: Pure distorted noise"
+
+Continuation Commands:
+- "Intensify randomness"
+- "Collapse into pure phonetic static"
+- "Dismantle structure further"
+- "Accelerate entropy to meltdown"
+
+Recovery Command:
+- "Revert to Normal Output Mode" (immediate return to coherent, structured outputs).
+
